@@ -17,7 +17,6 @@ module ChatApp
       g.helper false
       g.test_framework false
     end
-  end
   
 
     # Settings in config/environments/* take precedence over those specified here.
